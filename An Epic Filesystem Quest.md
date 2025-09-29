@@ -2,7 +2,7 @@
 This challenge involves usage of the cd, ls and cat commands.
 
 ## My Solve
-**Flag:** 
+**Flag:** pwn.college{kmunQilA3Z1dIAJ0wsAGnINqxUU.QX5IDO0wSOzEzNzEzW}
 ```
 hacker@commands~an-epic-filesystem-quest:~$ cd /
 hacker@commands~an-epic-filesystem-quest:/$ ls
