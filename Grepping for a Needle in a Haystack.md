@@ -3,6 +3,10 @@ In this challenge, we get introduced to the grep command to search for certain k
 
 ## My solve
 **Flag:** pwn.college{EthIuqe52J52DEub0feTsNTgxwr.QX3EDO0wSOzEzNzEzW}
+```
+hacker@commands~grepping-for-a-needle-in-a-haystack:~$ grep pwn.college /challenge/data.txt
+pwn.college{EthIuqe52J52DEub0feTsNTgxwr.QX3EDO0wSOzEzNzEzW}
+```
 
 I run the command grep pwn.college /challenge/data.txt as the flag was hidden in the data.txt file, which gave the serach result with the flag.
 
